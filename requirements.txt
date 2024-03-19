@@ -1,0 +1,9 @@
+Flask==2.0.1
+Werkzeug==2.2.2
+requests==2.31.0
+fuzzywuzzy==0.18.0
+gTTS==2.5.1
+SpeechRecognition==3.10.1
+numpy>=1.19.5
+opencv-python==4.9.0.80
+tensorflow==2.16.1
