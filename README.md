@@ -40,6 +40,10 @@ Team mediflora noticed that the knowledge among the general public about ayurved
 
 -   Users can use the Q & A session in mediflora app to enhance the knowledge about medicinal plants. It will be an interactive platform for the younger generation to develop their knowledge about medicinal plants.
 
+#Dashboard
+![image](https://github.com/Ptg2001/mediflora/assets/83298817/4a6f8ab9-e07f-4af4-a24b-b9e4cc175400)
+
+
 
 
 
